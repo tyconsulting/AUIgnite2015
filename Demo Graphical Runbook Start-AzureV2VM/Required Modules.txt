@@ -1,0 +1,4 @@
+This graphical runbook requires the following modules:
+
+1. AzureRM.Profile (version 1.0.1)
+2. AzureRM.Compute (version 1.1.0)
