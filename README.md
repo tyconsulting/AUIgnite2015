@@ -22,7 +22,8 @@ Required Systems:
 ###Demo: Graphical Runbook Start-AzureV2VM
 Folder: Demo Graphical Runbook Start-AzureV2VM
 
-Required Modules
+Required Modules:
+
 1. AzureRm.Profile (https://www.powershellgallery.com/packages/AzureRM.profile/)
 2. AzureRm.Compute (https://www.powershellgallery.com/packages/AzureRM.Compute/)
 
@@ -32,13 +33,15 @@ Folder: Demo Add Computer to SCCM Collection
 ###Demo: Place a SCOM group into maintenance mode
 Folder: Demo Place SCOM Group To Maintenance Mode
 
-Required Modules
+Required Modules:
+
 1. OpsMgrExtended (http://www.tyconsulting.com.au/portfolio/opsmgrextended-powershell-and-sma-module/)
 
 ###Demo: Invoke OMS Saved Searches
 Folder: Demo Invoke OMS Saved Searches
 
-Required Modules
+Required Modules:
+
 1. OMSSearch (https://www.powershellgallery.com/packages/OMSSearch/)
 
 ##Other Resources
