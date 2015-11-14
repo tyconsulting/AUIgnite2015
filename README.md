@@ -3,7 +3,7 @@
 ##Description
 This repository contains all the demo runbooks and other related information for the Azure Automation session in Microsoft Ignite Australia 2015.
 
-####Presenter: Pete Zerger & Tao Yang
+####Presenters: Pete Zerger & Tao Yang
 
 ##Demo
 ###Demo: AD User Onboarding Request
