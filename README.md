@@ -1,7 +1,7 @@
 # AUIgnite2015
 
 ##Description
-This repository contains all the demo runbooks and other related information for the Azure Automation session in Microsoft Ignite Australia 2015.
+This repository contains all the demo runbooks and other related information for the Azure Automation session (ARC311) in Microsoft Ignite Australia 2015.
 
 ####Presenters: Pete Zerger & Tao Yang
 
