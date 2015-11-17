@@ -46,14 +46,15 @@ Required Modules:
 
 ##Other Resources
 ### Hybrid Worker Registration Sample Commands
-Script Name: Hybrid Worker Registration.ps1
-Description:
+####Script Name: Hybrid Worker Registration.ps1
+####Description:
 This sampel command demonstrates how to register a directly connected OMS agent as an Azure Automation Hybrid Worker. Before executing the commands in this script, you will firstly need to get the EndPoint URL and access token (Primary or Secondary access key) from your Azure Automation account.
 
 ###Demo: Launch Azure Automation Runbook via PowerSehll:
 Folder: Demo Calling Runbook via PowerShell
 
 Required Modules:
+
 1. AzureRm.Profile (https://www.powershellgallery.com/packages/AzureRM.profile/)
 2. AzureRm.Automation (https://www.powershellgallery.com/packages/AzureRM.Automation/)
 
@@ -61,5 +62,6 @@ Required Modules:
 Folder: Demo DSC
 
 Required Modules:
+
 1. AzureRm.Profile (https://www.powershellgallery.com/packages/AzureRM.profile/)
 2. AzureRm.Automation (https://www.powershellgallery.com/packages/AzureRM.Automation/)
