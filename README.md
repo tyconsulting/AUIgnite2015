@@ -15,9 +15,9 @@ Required Modules (in both Azure Automation account and Hybrid Workers)
 
 Required Systems:
 
-01. SharePoint (either On-Prem or SharePoint Online)
-02. Active Directory
-03. Email system (i.e. On-Prem MS Exchange or Office 365)
+1. SharePoint (either On-Prem or SharePoint Online)
+2. Active Directory
+3. Email system (i.e. On-Prem MS Exchange or Office 365)
 
 ###Demo: Graphical Runbook Start-AzureV2VM
 Folder: Demo Graphical Runbook Start-AzureV2VM
@@ -49,3 +49,17 @@ Required Modules:
 Script Name: Hybrid Worker Registration.ps1
 Description:
 This sampel command demonstrates how to register a directly connected OMS agent as an Azure Automation Hybrid Worker. Before executing the commands in this script, you will firstly need to get the EndPoint URL and access token (Primary or Secondary access key) from your Azure Automation account.
+
+###Demo: Launch Azure Automation Runbook via PowerSehll:
+Folder: Demo Calling Runbook via PowerShell
+
+Required Modules:
+1. AzureRm.Profile (https://www.powershellgallery.com/packages/AzureRM.profile/)
+2. AzureRm.Automation (https://www.powershellgallery.com/packages/AzureRM.Automation/)
+
+###Demo: Azure DSC
+Folder: Demo DSC
+
+Required Modules:
+1. AzureRm.Profile (https://www.powershellgallery.com/packages/AzureRM.profile/)
+2. AzureRm.Automation (https://www.powershellgallery.com/packages/AzureRM.Automation/)
